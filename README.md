@@ -1,2 +1,2 @@
-# docker-elixir
-Dockerfile for trying out elixir
+# docker-elixir-dexbox
+Dockerfile with my devbox base layer for trying out Elixir
